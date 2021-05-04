@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ashish Bhagat
 
-- 🔭 I’m Full Stack Devloper ,Actively looking for new opportunities
+- 🔭 I’m Full Stack Devloper, Actively looking for new opportunities
 - 🌱 I love building things that work efficiently and look great.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
