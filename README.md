@@ -2,7 +2,7 @@
 
 - 🔭 I’m Full Stack Devloper, Actively looking for new opportunities
 - 🌱 I love building things that work efficiently and look great.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - 📫 How to reach me abhagat629@gmail.com
 
 ### Languages and Tools:
